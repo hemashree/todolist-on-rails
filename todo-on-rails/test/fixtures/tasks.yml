@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  taskTitle: MyText
+  due: MyString
+
+two:
+  taskTitle: MyText
+  due: MyString
